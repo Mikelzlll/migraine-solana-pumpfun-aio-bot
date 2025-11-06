@@ -38,7 +38,15 @@ _More features are constantly being developed!_
 
 ## 🎬 Showoff
 
-[![Video Thumbnail](https://migraine.bot/assets/top-banner.png)](https://migraine.bot/media/video.mp4)
+
+
+
+
+https://github.com/user-attachments/assets/17f6ccf7-177d-4786-b3d7-8386c03bb3e5
+
+
+
+
 *(Click to play video)*
 
 ---
